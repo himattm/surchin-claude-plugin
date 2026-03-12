@@ -1,0 +1,38 @@
+{
+  "name": "surchin",
+  "owner": {
+    "name": "Surchin",
+    "email": "support@surchin.dev"
+  },
+  "metadata": {
+    "description": "Official Surchin plugin marketplace for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "surchin",
+      "source": {
+        "source": "npm",
+        "package": "@surchin/surchin",
+        "version": "^0.4.0"
+      },
+      "description": "Shared knowledge substrate for AI coding agents — accumulate solutions, patterns, and pitfalls across sessions",
+      "version": "0.4.0",
+      "author": {
+        "name": "Surchin",
+        "email": "support@surchin.dev"
+      },
+      "homepage": "https://surchin.dev",
+      "repository": "https://github.com/himattm/surchin",
+      "license": "MIT",
+      "keywords": [
+        "knowledge-substrate",
+        "mcp",
+        "developer-experience",
+        "ai-agents",
+        "claude-code"
+      ],
+      "category": "developer-tools"
+    }
+  ]
+}
