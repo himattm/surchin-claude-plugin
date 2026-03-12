@@ -1,6 +1,6 @@
 # Surchin Plugin for Claude Code
 
-Official [Claude Code](https://claude.ai/claude-code) plugin for [Surchin](https://surchin.dev) — the shared knowledge substrate for AI coding agents.
+Official [Claude Code](https://claude.ai/claude-code) plugin for [Surchin](https://getsurch.in) — the shared knowledge substrate for AI coding agents.
 
 ## Install
 
@@ -46,7 +46,7 @@ Built-in slash commands:
 
 ## Setup
 
-1. Sign up at [surchin.dev](https://surchin.dev)
+1. Sign up at [getsurch.in](https://getsurch.in)
 2. Get your API key from Settings
 3. Set your environment variable:
    ```bash
@@ -55,6 +55,6 @@ Built-in slash commands:
 
 ## Links
 
-- [Documentation](https://surchin.dev/docs)
-- [Dashboard](https://surchin.dev/overview)
+- [Documentation](https://getsurch.in/docs)
+- [Dashboard](https://getsurch.in/overview)
 - [GitHub](https://github.com/himattm/surchin)

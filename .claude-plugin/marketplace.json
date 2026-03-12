@@ -2,7 +2,7 @@
   "name": "surchin",
   "owner": {
     "name": "Surchin",
-    "email": "support@surchin.dev"
+    "email": "support@getsurch.in"
   },
   "metadata": {
     "description": "Official Surchin plugin marketplace for Claude Code",
@@ -20,9 +20,9 @@
       "version": "0.4.0",
       "author": {
         "name": "Surchin",
-        "email": "support@surchin.dev"
+        "email": "support@getsurch.in"
       },
-      "homepage": "https://surchin.dev",
+      "homepage": "https://getsurch.in",
       "repository": "https://github.com/himattm/surchin",
       "license": "MIT",
       "keywords": [
