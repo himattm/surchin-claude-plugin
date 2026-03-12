@@ -57,4 +57,3 @@ Built-in slash commands:
 
 - [Documentation](https://getsurch.in/docs)
 - [Dashboard](https://getsurch.in/overview)
-- [GitHub](https://github.com/himattm/surchin)
