@@ -14,10 +14,10 @@
       "source": {
         "source": "npm",
         "package": "@surchin/surchin",
-        "version": "*"
+        "version": "0.5.4"
       },
       "description": "The context engineering platform for AI powered teams — accumulate solutions, patterns, and pitfalls across sessions and teams",
-      "version": "latest",
+      "version": "0.5.4",
       "author": {
         "name": "Surchin",
         "email": "support@getsurch.in"
