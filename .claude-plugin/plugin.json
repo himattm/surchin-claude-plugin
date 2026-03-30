@@ -1,13 +1,12 @@
 {
   "name": "surchin",
   "description": "The context engineering platform for AI powered teams — accumulate solutions, patterns, and pitfalls across sessions and teams",
-  "version": "0.5.4",
-  "author": {
-    "name": "Surchin",
-    "email": "support@getsurch.in"
-  },
+  "version": "0.5.5",
+  "author": { "name": "Surchin", "email": "support@getsurch.in" },
   "homepage": "https://getsurch.in",
   "repository": "https://github.com/himattm/surchin-claude-plugin",
   "license": "MIT",
-  "hooks": "../hooks/hooks.json"
+  "hooks": "../hooks/hooks.json",
+  "skills": "../skills/",
+  "mcpServers": "../.mcp.json"
 }
