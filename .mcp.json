@@ -1,8 +1,6 @@
 {
-  "mcpServers": {
-    "surchin": {
-      "command": "npx",
-      "args": ["-y", "@surchin/surchin"]
-    }
+  "surchin": {
+    "command": "npx",
+    "args": ["-y", "@surchin/surchin"]
   }
 }
