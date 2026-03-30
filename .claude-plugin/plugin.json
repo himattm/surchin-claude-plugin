@@ -6,7 +6,11 @@
   "homepage": "https://getsurch.in",
   "repository": "https://github.com/himattm/surchin-claude-plugin",
   "license": "MIT",
-  "hooks": "../hooks/hooks.json",
-  "skills": "../skills/",
-  "mcpServers": "../.mcp.json"
+  "keywords": [
+    "knowledge-substrate",
+    "mcp",
+    "developer-experience",
+    "ai-agents",
+    "claude-code"
+  ]
 }
