@@ -1,6 +1,6 @@
 {
   "name": "surchin",
-  "description": "Shared knowledge substrate for AI coding agents — accumulate solutions, patterns, and pitfalls across sessions and teams",
+  "description": "The context engineering platform for AI coding agents — accumulate solutions, patterns, and pitfalls across sessions and teams",
   "version": "0.5.3",
   "author": {
     "name": "Surchin",
