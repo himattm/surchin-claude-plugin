@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Official Surchin plugin marketplace for Claude Code",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -14,10 +14,10 @@
       "source": {
         "source": "npm",
         "package": "@surchin/surchin",
-        "version": "^0.4.0"
+        "version": "*"
       },
-      "description": "Shared knowledge substrate for AI coding agents — accumulate solutions, patterns, and pitfalls across sessions",
-      "version": "0.4.0",
+      "description": "Shared knowledge substrate for AI coding agents — accumulate solutions, patterns, and pitfalls across sessions and teams",
+      "version": "latest",
       "author": {
         "name": "Surchin",
         "email": "support@getsurch.in"
