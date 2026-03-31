@@ -1,6 +1,6 @@
 # Surchin Plugin for Claude Code
 
-Official [Claude Code](https://claude.ai/claude-code) plugin for [Surchin](https://getsurch.in) -- the context engineering platform for AI powered teams.
+Official [Claude Code](https://claude.com/product/claude-code) plugin for [Surchin](https://getsurch.in) -- the context engineering platform for AI powered teams.
 
 ## Install
 
