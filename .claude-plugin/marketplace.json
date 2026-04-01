@@ -13,7 +13,7 @@
       "name": "surchin",
       "source": "./",
       "description": "The context engineering platform for AI powered teams — accumulate solutions, patterns, and pitfalls across sessions and teams",
-      "version": "0.5.10",
+      "version": "0.5.11",
       "author": {
         "name": "Surchin",
         "email": "support@getsurch.in"
